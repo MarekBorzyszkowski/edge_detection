@@ -272,7 +272,7 @@ int main() {
 
 	input.open(fileLocation, ifstream::binary);
 
-	if (!input) {
+	while (!input) {
 		cout << "File does not exist, write the file location again: ";
 		cin >> fileLocation;
 		input.open(fileLocation, ifstream::binary);
