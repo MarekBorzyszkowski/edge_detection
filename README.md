@@ -38,7 +38,7 @@ Project uses standard C++ libraries.
 
 
 ## Usage
-Insert location of your bmp image. Than the program will output a processed bmp image.
+Insert location of your bmp image. Then the program will output a processed bmp image.
 
 ## Project Status
 _complete_
